@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <crypt.h>
 
 int main(void) {
   char *str = NULL, *hash = NULL;
